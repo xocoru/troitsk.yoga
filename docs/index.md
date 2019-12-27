@@ -20,4 +20,5 @@
 
 ## Место проведения занятий
 
-Карта будет тут
+<https://yandex.ru/maps/-/CGtpYWKi>
+![Карта проезда](transfer.png)
