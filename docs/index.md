@@ -13,11 +13,11 @@
 
 [+7 (916) 114-22-55 (Анастасия)](tel://+79161142255)
 
-![Instagram](instagram.png <http://instagram.com/troitsk.yoga/)>
+![Instagram](instagram.png <http://instagram.com/troitsk.yoga/>)
 
-[WhatsApp](https://api.whatsapp.com/send?phone=79161142255)
+![WhatsApp](whatsapp.png <https://api.whatsapp.com/send?phone=79161142255>)
 
-[Telegram](https://t.me/troitsk_yoga)
+![Telegram](telegram.png <https://t.me/troitsk_yoga>)
 
 ## Место проведения занятий
 
