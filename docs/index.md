@@ -8,6 +8,7 @@
 ## Место проведения занятий
 
 <https://yandex.ru/maps/-/CGtpYWKi>
+
 ![Карта проезда](transfer.png)
 
 ## Обо мне
