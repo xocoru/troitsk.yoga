@@ -8,7 +8,7 @@
 
 ## Время и место проведения занятий
 
-<div style="color: red; font-size: 1.25em; margin-top: 24px;
+<div style="color: red; font-size: 1.40em; margin-top: 24px;
     margin-bottom: 16px;
     font-weight: 600;
     line-height: 1.25;">Занятия он-лайн</div>
