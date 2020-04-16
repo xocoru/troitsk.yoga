@@ -10,7 +10,7 @@
 
 ### Занятия он-лайн
 
-Прямой эфир в профиле [![Instagram](instagram.png "Instagram")](http://instagram.com/troitsk.yoga/)
+Прямой эфир в профиле инстаграмм @troitsk.yoga. Перейти: [![Instagram](instagram.png "Instagram")](http://instagram.com/troitsk.yoga/)
 * Вторник 20:30 хатха-йога
 * Четверг 08:00 крия-йога
 * Пятница 20:30 хатха-йога
