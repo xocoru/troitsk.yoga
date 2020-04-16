@@ -8,7 +8,10 @@
 
 ## Время и место проведения занятий
 
-<div style="color: red">Занятия он-лайн</div>
+<div style="color: red; font-size: 1.25em; margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;">Занятия он-лайн</div>
 
 Прямой эфир в профиле инстаграмм [@troitsk.yoga](http://instagram.com/troitsk.yoga) [![Instagram](instagram.png "Instagram")](http://instagram.com/troitsk.yoga/)
 * Вторник 20:30 хатха-йога
