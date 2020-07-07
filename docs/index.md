@@ -8,21 +8,7 @@
 
 ## Время и место проведения занятий
 
-<<<<<<< HEAD
 Каждое воскресение 11:00 в парке Заречье городского округа Троицк.
-=======
-<div style="color: red; font-size: 1.40em; margin-top: 24px;
-    margin-bottom: 16px;
-    font-weight: 600;
-    line-height: 1.25;">Занятия он-лайн</div>
-
-Прямой эфир в профиле инстаграмм [@troitsk.yoga](http://instagram.com/troitsk.yoga) [![Instagram](instagram.png "Instagram")](http://instagram.com/troitsk.yoga/)
-* Вторник 20:30 хатха-йога
-* Четверг 08:00 крия-йога
-* Пятница 20:30 хатха-йога
-
-### Групповые занятия
->>>>>>> refs/remotes/origin/master
 
 <https://yandex.ru/maps/-/CCQlE6xpOA>
 
